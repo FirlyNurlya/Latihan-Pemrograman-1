@@ -1,0 +1,3 @@
+Karna dalam int a = 25 makan hasil runningnya muncul a = 25
+int b = 10, hasil runningnya b = 10
+system out println mencetak a * b = 25 * 10 , hasilnya = 250
