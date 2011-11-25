@@ -24,4 +24,3 @@ public class CalculatorServiceImpl implements CalculatorService{
 		return bil1 / bil2;
 	}
 }
-	

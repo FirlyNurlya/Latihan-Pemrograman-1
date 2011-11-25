@@ -20,4 +20,3 @@ public class MainClass {
 		System.out.println("Nilai d : " + d);
 	}
 }
-		
